@@ -10,6 +10,6 @@ namespace test
     {
         static void Main(string[] args)
         {
-        }asad
+        }
     }
 }
